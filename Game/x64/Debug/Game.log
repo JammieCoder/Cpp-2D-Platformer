@@ -1,0 +1,9 @@
+﻿  Game.cpp
+D:\James\Desktop\Game\Game\Game.cpp(24,47): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\James\Desktop\Game\Game\Game.cpp(53,48): warning C4305: 'argument': truncation from 'double' to 'float'
+  Headers.cpp
+D:\James\Desktop\Game\Game\Headers.cpp(108,15): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\James\Desktop\Game\Game\Headers.cpp(172,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\James\Desktop\Game\Game\Headers.cpp(172,22): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Game.vcxproj -> D:\James\Desktop\Game\x64\Debug\Game.exe
